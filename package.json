@@ -1,0 +1,24 @@
+{
+  "name": "17-2-santa",
+  "version": "1.0.0",
+  "description": "changes password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenBiz/17-2-Santa.git"
+  },
+  "author": "AlenBiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenBiz/17-2-Santa/issues"
+  },
+  "homepage": "https://github.com/AlenBiz/17-2-Santa#readme",
+  "devDependencies": {
+    "cypress": "^12.5.0",
+    "@faker-js/faker": "^7.6.0",
+    "@bahmutov/cy-api": "^2.2.3"
+  }
+}
